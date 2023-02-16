@@ -9,3 +9,7 @@
 .body {
     background-color:Tomato
 }
+
+#map {
+    height: 100%;
+  }
